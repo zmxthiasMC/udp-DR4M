@@ -8,7 +8,6 @@
 import os
 import ipaddress
 import random
-import sys
 
 os.system('clear' if os.name == 'posix' else 'cls')
 
